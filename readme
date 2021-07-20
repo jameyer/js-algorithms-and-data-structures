@@ -1,0 +1,8 @@
+Algorithms and Data Structures.
+
+For debugging, change the main in package.json to the file you want to debug.
+
+to run from command line, just use node <filename>
+
+Most of these also have sample data at bottom.  A few don't.
+

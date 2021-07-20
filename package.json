@@ -1,5 +1,5 @@
 {
-  "name": "practice-js",
+  "name": "algorithms-and-data-structures",
   "version": "1.0.0",
   "description": "class on big-O searching and sorting",
   "main": "./dynamicProgramming/fib.js",
