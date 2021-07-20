@@ -1,0 +1,12 @@
+{
+  "name": "practice-js",
+  "version": "1.0.0",
+  "description": "class on big-O searching and sorting",
+  "main": "./dynamicProgramming/fib.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JAM",
+  "license": "ISC"
+}
